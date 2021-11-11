@@ -1,2 +1,3 @@
 # majedkaled
-Githud.l
+#pkg update
+#pkg upgrade
